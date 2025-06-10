@@ -1,0 +1,19 @@
+Nodos Visitados: 
+{A, B, C, D, E}
+
+Cola = [[[[]]]]], AF]
+
+I1: Nodo A
+Caminos: [AB, AF]
+
+I2: Nodo B
+Caminos: [ABC, ABD]
+
+I3: Nodo C
+Caminos: []
+
+I4: Nodo D
+Caminos: [ABDE]
+
+I5: Nodo E
+Caminos: []
